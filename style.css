@@ -811,7 +811,8 @@ body {
         width: 110px;
     }
     .text__letter{
-        margin-top: 0px!important;
         font-size: 0.9rem!important;
+        margin-top: 0px!important;
+        
     }
 }
